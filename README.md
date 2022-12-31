@@ -22,4 +22,4 @@ From this group project I learned:
 - how to manipulate data from the SQL database to optimize the customer processes
 - how to collaborate with others on a project relating to software
 
-<a href = Google.com>Google</a>
+To view the project in action <a href = https://students.cs.niu.edu/~z1867741/GroupProjectlogin.html>click here</a>
